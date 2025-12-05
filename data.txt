@@ -1,8 +1,0 @@
-first_name=Amelia
-last_name=Windah
-email=jembuat1@psu.edu
-birth_day=12
-birth_month=January
-birth_year=2006
-country=United States
-university=Pennsylvania State University-World Campus
