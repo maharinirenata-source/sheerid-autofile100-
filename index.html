@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SheerID Autofill Tool</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        input, button {
+            width: 100%;
+            padding: 10px;
+            margin-top: 10px;
+            font-size: 16px;
+        }
+        #status {
+            margin-top: 20px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<h2>SheerID Autofill Tool (Auto Load)</h2>
+
+<p>Masukkan link SheerID:</p>
+<input type="text" id="sheeridLink" placeholder="https://services.sheerid.com/...">
+
+<button onclick="goToSheerID()">Pergi ke Form</button>
+
+<div id="status">Memuat data dari data.txt...</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
