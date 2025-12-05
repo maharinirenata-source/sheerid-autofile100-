@@ -1,0 +1,8 @@
+negara=Amerika Serikat
+universitas=Pennsylvania State University - World Campus
+nama_depan=Amelia
+nama_belakang=Windah
+tanggal=12
+bulan=Januari
+tahun=2006
+email=jmajla1@psu.edu
